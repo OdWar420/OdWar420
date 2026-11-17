@@ -37,7 +37,10 @@ built milestone by milestone. Research toy, but it boots.
 
 ### Off the clock
 
-Old-school deathmatch ([DMQ server files](https://github.com/OdWar420/DMQ-Server-files)),
-a 49" monitor that refuses to wake up, and too many RGB controllers.
+Twenty years ago I went by Billy and hoarded every Quake deathmatch map I could find.
+Billy was right: [the archive](https://github.com/OdWar420/DMQ-Server-files) is now 10 758 maps,
+and much of it exists nowhere else.
+
+These days: a 49" monitor that refuses to wake up, and too many RGB controllers.
 
 <sub>Reach me through an issue on any of the repos above.</sub>
